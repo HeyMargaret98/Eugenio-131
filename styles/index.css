@@ -1,0 +1,40 @@
+nav {
+    background-color:  #ffe6ff;
+    font-style: oblique;
+}
+
+h5  {
+    color: black;
+}
+
+p1   {
+    color: black;
+}
+
+div {
+    background-color: #e6ffff;
+}
+
+.img-size {
+    width: 300px;
+    height: auto;
+    margin-top:20px;
+
+}
+
+/*.img-size-carousel {
+    margin-top:20px;
+    width: 900px;
+    height: auto;
+}*/
+
+/*.relativepos {
+    position: relative;
+}*/
+
+.form-size {
+    width: 400px;
+    height: auto;
+    margin-top:20px;
+
+}
